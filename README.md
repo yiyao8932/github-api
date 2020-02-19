@@ -1,4 +1,4 @@
-# AT&T Test Project
+# Test Project
 
 Thank you for reviewing my test project. Here are some introductions and instructions.
 
