@@ -19,7 +19,7 @@
   "dependencies": {
     "koa": "^2.4.1",
     "koa-router": "^7.3.0",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
